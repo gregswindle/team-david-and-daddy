@@ -10,4 +10,4 @@
 
 [1]: .github/assets/img/icons8-mission-64.png
 [2]: .github/assets/img/icons8-task-planning-64.png
-[3]: /projects
+[3]: /gregswindle/team-david-and-daddy/projects
