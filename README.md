@@ -1,6 +1,6 @@
-# team-david-and-daddy
+# `team-david-and-daddy`
 
-> ![team-mission][1] Manage David and Daddy's tasks by [project][3] so they can have a happy life.
+> [![team-mission][1]][3] Manage David and Daddy's tasks by [project][3] so they can have a happy life.
 
 ## Projects
 
