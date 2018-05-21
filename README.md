@@ -8,4 +8,4 @@
 
 [1]: .github/assets/img/icons8-mission-64.png
 [2]: .github/assets/img/icons8-task-planning-64.png
-[3]: https://github.com/gregswindle/team-david-and-daddy/projects
+[3]: https://github.com/gregswindle/team-david-and-daddy/projects?query=is%3Aopen+sort%3Aname-ascs
